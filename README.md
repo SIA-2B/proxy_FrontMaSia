@@ -2,7 +2,7 @@
 
 ## Instrucciones
 
-Ejecutar con docker-compose up --build
+1. Ejecutar `docker-compose up --build`
 
 
 
